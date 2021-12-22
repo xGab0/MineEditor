@@ -1,0 +1,11 @@
+{
+  "entrypoint": "me.gabo.mineedit.minestom.extension.Main",
+  "name": "Rubik",
+  "version": "0.1",
+  "authors": [
+    "xGab0",
+    "Circus",
+    "ClownAcademy"
+  ],
+  "dependencies": []
+}

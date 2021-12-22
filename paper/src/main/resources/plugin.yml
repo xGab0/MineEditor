@@ -1,0 +1,6 @@
+main: me.gabo.mineedit.paper.plugin.Main
+version: 0.1-SNAPSHOT
+api-version: 1.19
+name: MineEdit
+description: worldedit fake edition
+author: xGab0
