@@ -8,7 +8,7 @@
 
   <parent>
     <groupId>me.gabo</groupId>
-    <artifactId>mineedit-all</artifactId>
+    <artifactId>mineeditor-all</artifactId>
     <version>0.1-SNAPSHOT</version>
   </parent>
 
@@ -50,7 +50,7 @@
       <version>0.1-SNAPSHOT</version>
     </dependency>
     <dependency>
-      <groupId>mi.gabo</groupId>
+      <groupId>me.gabo</groupId>
       <artifactId>mineeditor-common</artifactId>
       <version>0.1-SNAPSHOT</version>
     </dependency>

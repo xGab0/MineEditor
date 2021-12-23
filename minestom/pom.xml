@@ -55,12 +55,12 @@
     </dependency>
     <dependency>
       <groupId>me.gabo</groupId>
-      <artifactId>mineedit-api</artifactId>
+      <artifactId>mineeditor-api</artifactId>
       <version>0.1-SNAPSHOT</version>
     </dependency>
     <dependency>
       <groupId>me.gabo</groupId>
-      <artifactId>mineedit-common</artifactId>
+      <artifactId>mineeditor-common</artifactId>
       <version>0.1-SNAPSHOT</version>
     </dependency>
     <dependency>

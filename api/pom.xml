@@ -8,11 +8,11 @@
 
   <parent>
     <groupId>me.gabo</groupId>
-    <artifactId>mineditor-all</artifactId>
+    <artifactId>mineeditor-all</artifactId>
     <version>0.1-SNAPSHOT</version>
   </parent>
 
-  <artifactId>mineditor-api</artifactId>
+  <artifactId>mineeditor-api</artifactId>
   <version>0.1-SNAPSHOT</version>
   <name>mineeditor-api</name>
   <description>The API of MineEdit</description>
